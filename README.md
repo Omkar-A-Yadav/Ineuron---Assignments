@@ -2,4 +2,4 @@
 
 Log:- 
 
-Python basics assignment(1/25)
+Python basics assignment(2/25)
